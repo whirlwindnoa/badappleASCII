@@ -1,6 +1,6 @@
 # badappleASCII
 
-planning on playing bad apple on an iPhone with DFU mode and checkm8 exploit available<br>
+planning on playing bad apple on an iPhone with DFU mode and checkm8 exploit available (basically playing it on the bootloader)<br>
 therefore decided first to play it on a linux terminal<br><br>
 
 use `make` to build<br>
